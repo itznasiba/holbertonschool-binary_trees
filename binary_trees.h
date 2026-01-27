@@ -5,7 +5,7 @@
 
 typedef struct binary_tree_t
 {
-	int value;
+	int n;
 	struct binary_tree_t *parent;
 	struct binary_tree_t *left;
 	struct binary_tree_t *right;
