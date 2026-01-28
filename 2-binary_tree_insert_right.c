@@ -7,7 +7,7 @@
  * @parent: parent of node
  * @value: value of node
  *
- * Return: binary_tree_t 
+ * Return: binary_tree_t
  */
 
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
